@@ -1,0 +1,8 @@
+{
+  "server.running": "Servidor levantado en el puerto ",
+  "some": "un mensaje comun compartido",
+  "dad": {
+    "child": "soy un hijo"
+  },
+  "with.params": "hola {{name}}"
+}

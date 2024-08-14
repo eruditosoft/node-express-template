@@ -1,0 +1,8 @@
+{
+  "server.running": "Server running on port ",
+  "some": "some commons mesaje",
+  "dad": {
+    "child": "i am a child"
+  },
+  "with.params": "hello {{name}}"
+}

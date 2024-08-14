@@ -1,0 +1,7 @@
+{
+  "some":"Some error",
+  "dummy": {
+    "name": "Some error name",
+    "description": "Some error description"
+  } 
+}
